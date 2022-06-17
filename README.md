@@ -11,7 +11,8 @@ All entries in the list are sorted by **Installation Size** which is the observe
 # Programs
 | Purpose     | Program   | Link | Installation Size (MB) | Description 
 | ------------ | -------- | ---- | ----------------------- | -----------
-| File Searcher | BareGrep | https://www.baremetalsoft.com/baregrep/ | 0.248 (yes you read that correctly, 248kb) | Able to recursively search files and their contents for specified regular expressions
+| Screen Recording Tool | wcap | https://github.com/mmozeiko/wcap | 0.056 (yes you read that correctly, **56kb**) | A screen capture tool created by Martins Mozeiko
+| File Searcher | BareGrep | https://www.baremetalsoft.com/baregrep/ | 0.248  | Able to recursively search files and their contents for specified regular expressions
 | Colour Picker | ColorCop | http://colorcop.net/ | 0.828 | System wide **colour** (yes thats how we spell *color*) picker
 | SpreadSheet  | Spread32| https://www.byedesign.co.uk/ | 3.97 | Spreadsheet application with basic functionality compatible with xlsx
 | C/C++ Debugger| RemedyBG | https://remedybg.itch.io/remedybg | 4.92 | Super awesome C/C++ debugger written by ~~Jesus~~ a single developer
@@ -22,4 +23,3 @@ All entries in the list are sorted by **Installation Size** which is the observe
 | Chat Client | Ripcord | https://cancel.fm/ripcord/ | 35.7 | A lightweight desktop chat client primarily intended for group-centric chat services like Discord/Slack
 | Text Editor | 4Coder | https://www.4coder.net/ | 37.5 | C/C++ editor able to be extended and customized in...you guessed it...C/C++
 | Game Engine | The Machinery | https://ourmachinery.com/ | 126 | An entire game engine customizable and extensible in C
-| Online Video Client | Motion Box | https://omega.gg/MotionBox/ | 192 | An awesome application that streams videos from video hosting sites such as Youtube/Vimeo (able to bypass youtube age restriction, but you didnt hear that from me).
