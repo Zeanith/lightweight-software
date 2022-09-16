@@ -22,4 +22,3 @@ All entries in the list are sorted by **Installation Size** which is the observe
 | High Precision Calculator | SpeedCrunch | https://speedcrunch.org/ |  27 | A high precision scientific calculator with a terminal window for all your complex (heh) mathematics
 | Chat Client | Ripcord | https://cancel.fm/ripcord/ | 35.7 | A lightweight desktop chat client primarily intended for group-centric chat services like Discord/Slack
 | Text Editor | 4Coder | https://www.4coder.net/ | 37.5 | C/C++ editor able to be extended and customized in...you guessed it...C/C++
-| Game Engine | The Machinery | https://ourmachinery.com/ | 126 | An entire game engine customizable and extensible in C
